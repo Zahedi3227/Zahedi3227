@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software/Web developer positions, with a keen focus on creating dynamic and user-friendly web applications
 - 🌱 I’m currently learning Front-End development, mastering technologies like HTML, CSS, JavaScript, and React
 - 💞️ I’m looking to collaborate on open-source projects, startup ventures, or any innovative web development projects that can make a difference
-- 📫 How to reach me: You can contact me through my website at ezahedi.org or via email at cesmatullahzahedi@outlook.com
+- 📫 How to reach me: You can contact me through my website at ezahedi.org or via email at esmatullahzahedi@outlook.com
 - ⚡ Fun fact: I have had the unique experience of working with British forces in Afghanistan, which has given me a diverse perspective and a strong ability to work in challenging environments
 
 <!---
